@@ -1,7 +1,7 @@
-# ExpNo:10 Implementation of Classical Planning Algorithm
+<h1> ExpNo:10 Implementation of Classical Planning Algorithm<h1>
 <h3>Name: DHARSHAN D                  </h3>
 <h3>Register Number: 212223230045              </h3>
-# Aim
+<H3>Aim:</H3>
 To solve Implementation of Classical Planning Algorithm using python
 
 # Algorithm or Steps Involved:
