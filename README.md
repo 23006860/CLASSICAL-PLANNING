@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Name: DHARSHAN D
-## Register Number: 212223230045
+## Name: RAHUL V
+## Register Number: 212223240133
 # Aim:
 To solve Implementation of Classical Planning Algorithm using python.
 # Algorithm or Steps Involved:
